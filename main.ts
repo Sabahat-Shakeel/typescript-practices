@@ -127,6 +127,7 @@ console.log ("++b,", ++b) //output 11
 
 let x = 10
 let y = 9
+
 console.log ("--y,", --y) //output 8
 console.log ("y--,", y--) //output 8
 

@@ -87,4 +87,4 @@ console.log("y--,", y--); //output 8
 var num1 = 3 + 4 * 5;
 console.log(num1); //output 23
 var num2 = 2 + 4 * 5;
-console.log(num2);
+console.log(num2); // output 22
